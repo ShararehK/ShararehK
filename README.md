@@ -18,9 +18,6 @@ Software Engineer with MSc in Software Engineering | Building scalable systems |
 **Big Data:** Apache Spark  
 **Cloud:** Learning AWS Solutions Architecture  
 
-## 📊 GitHub Stats
-
-![Sharareh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShararehK&show_icons=true&theme=radical)
 
 ## 🔗 Connect With Me
 
